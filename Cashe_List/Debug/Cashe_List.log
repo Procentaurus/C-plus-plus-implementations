@@ -1,0 +1,20 @@
+﻿  Cashe_List.cpp
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(14,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-END>" podczas gdy brak deklaracji zmiennej
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(20,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-moveF>" podczas gdy brak deklaracji zmiennej
+  Functions.cpp
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(14,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-END>" podczas gdy brak deklaracji zmiennej
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(20,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-moveF>" podczas gdy brak deklaracji zmiennej
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(55,89): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(71,97): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(111,80): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(132,60): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(133,65): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(134,44): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.cpp(134,32): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+  List.cpp
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(14,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-END>" podczas gdy brak deklaracji zmiennej
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\Functions.h(20,2): warning C4091: "typedef ": zignorowano na lewo od "<unnamed-enum-moveF>" podczas gdy brak deklaracji zmiennej
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\List.cpp(144,38): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Cashe_List\List.cpp(150,38): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Cashe_List.vcxproj -> C:\Users\micha\Desktop\MOJE\Uczelnia\PG\SEM_2\PROJEKTY\AISD_2\Cashe_List\Debug\Cashe_List.exe
