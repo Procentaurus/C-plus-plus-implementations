@@ -1,6 +1,3 @@
-# C-plus-plus-implementations
-Repository contains C and C++ implementations of various algorithms and data structures
-
 # cacheList 
 OOP implementation of double-sided linked list with iterators. Program realizes all basic functionalities of standard linked lists.
 
