@@ -12,7 +12,7 @@ Implementation of algorithm that creates all possible partitions of prime number
 - input -> 2 prime numbers a and b, a > b
 - output -> all possible partitions of a into sum of prime numbers, where the biggest one is b
 - example      input : 27 17
-               output : 17+2+2+2+2+2
+               output : 17+2+2+2+2+2 \n
                         17+3+3+2+2
                         17+5+3+2
                         17+5+5
