@@ -17,4 +17,11 @@ Implementation of algorithm that creates all possible partitions of prime number
                         17+5+5<br>
                         17+7+3
 
+# heap
+Implementation of a min heap for the following data:
+- date in the following format: dd-mm-yyyy
+- name one word
+Program realizes functionalities of adding, removing and printing elements, so as rearranging heap according to chosen field of data elements.
 
+# TRIE 
+Implementation of simple TRIE tree for polish-english dictionary
